@@ -10,7 +10,7 @@ For a listing of current lessons, check out the [Community Lessons](https://carp
 
 There is excitement and interest in the way The Carpentries teach and deliver workshops. We are developing tools and templates for lessons that have proven to be effective to format and deliver both in workshop settings and in self-guided settings.
 
-There is also a need from learners who have participated in our workshops to explore further topics that can only just be covered briefly in our 2-day trainings.
+There is also a need from learners who have participated in our workshops to explore topics further than those that can be covered briefly in our 2-day trainings.
 
 The goal of The Carpentries Incubator is to be a place for Carpentries community members to share resources in early stages of development. People already familiar with The Carpentries teaching practices can pick them up and teach them in meetups, in class, or in complement of a "standard" Carpentries 2-day workshop. The lessons can also be used by independent learners, outside of workshops.
 
